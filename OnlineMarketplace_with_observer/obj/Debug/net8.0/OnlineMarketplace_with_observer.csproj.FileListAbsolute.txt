@@ -1,0 +1,14 @@
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\bin\Debug\net8.0\OnlineMarketplace_with_observer.exe
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\bin\Debug\net8.0\OnlineMarketplace_with_observer.deps.json
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\bin\Debug\net8.0\OnlineMarketplace_with_observer.runtimeconfig.json
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\bin\Debug\net8.0\OnlineMarketplace_with_observer.dll
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\bin\Debug\net8.0\OnlineMarketplace_with_observer.pdb
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\obj\Debug\net8.0\OnlineMarketplace_with_observer.GeneratedMSBuildEditorConfig.editorconfig
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\obj\Debug\net8.0\OnlineMarketplace_with_observer.AssemblyInfoInputs.cache
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\obj\Debug\net8.0\OnlineMarketplace_with_observer.AssemblyInfo.cs
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\obj\Debug\net8.0\OnlineMarketplace_with_observer.csproj.CoreCompileInputs.cache
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\obj\Debug\net8.0\OnlineMarketplace_with_observer.dll
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\obj\Debug\net8.0\refint\OnlineMarketplace_with_observer.dll
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\obj\Debug\net8.0\OnlineMarketplace_with_observer.pdb
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\obj\Debug\net8.0\OnlineMarketplace_with_observer.genruntimeconfig.cache
+M:\Programming\Consepts\design patterns\observer\OnlineMarketplace_observer\OnlineMarketplace_with_observer\obj\Debug\net8.0\ref\OnlineMarketplace_with_observer.dll

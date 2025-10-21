@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OnlineMarketplace_observer/OnlineMarketplace_without_observer.csproj" />
+  <Project Path="OnlineMarketplace_with_observer/OnlineMarketplace_with_observer.csproj" />
+</Solution>
