@@ -23,27 +23,6 @@ The **Observer Pattern** defines a one-to-many dependency between objects so tha
 - **Interfaces (ISubscriber):**
   Defines the contract for all subscribers (the `Notify()` method).
 
-## 🧩 Structure
-
-observer-design-pattern/
-│
-├── Entities/
-│ ├── OnlineMarketplace.cs
-│ ├── Product.cs
-│ ├── Offer.cs
-│ └── User.cs
-│
-├── Enums/
-│ └── EventType.cs
-│
-├── Interfaces/
-│ └── Subscriber.cs
-│
-├── Program.cs
-└── README.md
-
-
-
 ## 🚀 How to Run
 
 1. Clone the repository:
