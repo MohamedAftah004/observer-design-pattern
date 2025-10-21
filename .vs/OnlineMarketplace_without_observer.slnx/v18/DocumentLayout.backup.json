@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66038F82-EF8F-4E72-90C7-1BDF744FCA19}|OnlineMarketplace_with_observer\\OnlineMarketplace_with_observer.csproj|m:\\programming\\consepts\\design patterns\\observer\\onlinemarketplace_observer\\onlinemarketplace_with_observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66038F82-EF8F-4E72-90C7-1BDF744FCA19}|OnlineMarketplace_with_observer\\OnlineMarketplace_with_observer.csproj|solutionrelative:onlinemarketplace_with_observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66038F82-EF8F-4E72-90C7-1BDF744FCA19}|OnlineMarketplace_with_observer\\OnlineMarketplace_with_observer.csproj|m:\\programming\\consepts\\design patterns\\observer\\onlinemarketplace_observer\\onlinemarketplace_with_observer\\entities\\onlinemarketplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66038F82-EF8F-4E72-90C7-1BDF744FCA19}|OnlineMarketplace_with_observer\\OnlineMarketplace_with_observer.csproj|solutionrelative:onlinemarketplace_with_observer\\entities\\onlinemarketplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66038F82-EF8F-4E72-90C7-1BDF744FCA19}|OnlineMarketplace_with_observer\\OnlineMarketplace_with_observer.csproj|m:\\programming\\consepts\\design patterns\\observer\\onlinemarketplace_observer\\onlinemarketplace_with_observer\\entities\\jobfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66038F82-EF8F-4E72-90C7-1BDF744FCA19}|OnlineMarketplace_with_observer\\OnlineMarketplace_with_observer.csproj|solutionrelative:onlinemarketplace_with_observer\\entities\\jobfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66038F82-EF8F-4E72-90C7-1BDF744FCA19}|OnlineMarketplace_with_observer\\OnlineMarketplace_with_observer.csproj|m:\\programming\\consepts\\design patterns\\observer\\onlinemarketplace_observer\\onlinemarketplace_with_observer\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66038F82-EF8F-4E72-90C7-1BDF744FCA19}|OnlineMarketplace_with_observer\\OnlineMarketplace_with_observer.csproj|solutionrelative:onlinemarketplace_with_observer\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66038F82-EF8F-4E72-90C7-1BDF744FCA19}|OnlineMarketplace_with_observer\\OnlineMarketplace_with_observer.csproj|m:\\programming\\consepts\\design patterns\\observer\\onlinemarketplace_observer\\onlinemarketplace_with_observer\\enums\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66038F82-EF8F-4E72-90C7-1BDF744FCA19}|OnlineMarketplace_with_observer\\OnlineMarketplace_with_observer.csproj|solutionrelative:onlinemarketplace_with_observer\\enums\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66038F82-EF8F-4E72-90C7-1BDF744FCA19}|OnlineMarketplace_with_observer\\OnlineMarketplace_with_observer.csproj|m:\\programming\\consepts\\design patterns\\observer\\onlinemarketplace_observer\\onlinemarketplace_with_observer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66038F82-EF8F-4E72-90C7-1BDF744FCA19}|OnlineMarketplace_with_observer\\OnlineMarketplace_with_observer.csproj|solutionrelative:onlinemarketplace_with_observer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobFinder.cs",
+              "DocumentMoniker": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\OnlineMarketplace_with_observer\\Entities\\JobFinder.cs",
+              "RelativeDocumentMoniker": "OnlineMarketplace_with_observer\\Entities\\JobFinder.cs",
+              "ToolTip": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\OnlineMarketplace_with_observer\\Entities\\JobFinder.cs",
+              "RelativeToolTip": "OnlineMarketplace_with_observer\\Entities\\JobFinder.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:08:57.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\OnlineMarketplace_with_observer\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineMarketplace_with_observer\\Program.cs",
+              "ToolTip": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\OnlineMarketplace_with_observer\\Program.cs",
+              "RelativeToolTip": "OnlineMarketplace_with_observer\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:55:29.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineMarketplace.cs",
+              "DocumentMoniker": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\OnlineMarketplace_with_observer\\Entities\\OnlineMarketplace.cs",
+              "RelativeDocumentMoniker": "OnlineMarketplace_with_observer\\Entities\\OnlineMarketplace.cs",
+              "ToolTip": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\OnlineMarketplace_with_observer\\Entities\\OnlineMarketplace.cs",
+              "RelativeToolTip": "OnlineMarketplace_with_observer\\Entities\\OnlineMarketplace.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:27:02.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\OnlineMarketplace_with_observer\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineMarketplace_with_observer\\Entities\\Product.cs",
+              "ToolTip": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\OnlineMarketplace_with_observer\\Entities\\Product.cs",
+              "RelativeToolTip": "OnlineMarketplace_with_observer\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:40:03.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\OnlineMarketplace_with_observer\\Enums\\EventType.cs",
+              "RelativeDocumentMoniker": "OnlineMarketplace_with_observer\\Enums\\EventType.cs",
+              "ToolTip": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\OnlineMarketplace_with_observer\\Enums\\EventType.cs",
+              "RelativeToolTip": "OnlineMarketplace_with_observer\\Enums\\EventType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:29:11.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\OnlineMarketplace_with_observer\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "OnlineMarketplace_with_observer\\Entities\\Customer.cs",
+              "ToolTip": "M:\\Programming\\Consepts\\design patterns\\observer\\OnlineMarketplace_observer\\OnlineMarketplace_with_observer\\Entities\\Customer.cs",
+              "RelativeToolTip": "OnlineMarketplace_with_observer\\Entities\\Customer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:23:25.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
